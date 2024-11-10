@@ -1,0 +1,2 @@
+# Enhancing-LLM-Responses-with-Elasticsearch-and-FAISS
+Demonstrates a Retrieval-Augmented Generation (RAG) system for Q&amp;A, using hybrid search with Elasticsearch (BM25) and FAISS (Sentence Transformers). News articles are retrieved to enhance prompts for Google Gemini LLM, providing accurate, contextual responses. This method leverages both lexical and semantic relevance for effective answers.
